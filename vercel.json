@@ -1,8 +1,0 @@
-{
-    "rewrites": [
-        {
-            "source": "/summer-camp/:path*",
-            "destination": "/summer-camp/index.html"
-        }
-    ]
-}
